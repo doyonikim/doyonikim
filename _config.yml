@@ -1,5 +1,5 @@
 title:              "스쿠피"
-tagline:            "블로그 슬로건"
+tagline:            "스쿠피가 만드는 상상콘텐츠"
 email:              "doyonikim@gmail.com"
 description:        "블로그 설명"
 author:             "김도연"
@@ -21,3 +21,7 @@ paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-paginate
+
+# 블로그 disqus shortname
+disqus:
+  shortname: http-scoopii-world
