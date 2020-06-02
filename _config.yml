@@ -6,7 +6,7 @@ author:             "김도연"
 baseurl:            "/"
 url:                "https://scoopii.world"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail_scoopii.png"
+thumbnail:          "/img/posts/scoopii_tumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
