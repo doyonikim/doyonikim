@@ -6,6 +6,14 @@ header.masthead {
   background-color: $gray-600;
   background-attachment: scroll;
   position: relative;
+
+  background-image: url("/img/");
+
+  @media only screen and (min-width: 768px) {
+    background-image: url("/img/")
+  }
+
+
   @include background-cover;
   .overlay {
     position: absolute;
