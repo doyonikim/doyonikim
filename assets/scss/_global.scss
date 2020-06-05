@@ -9,7 +9,7 @@ body {
 
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 10px 0;
   text-align: justify;
   a {
     text-decoration: underline;
@@ -76,4 +76,52 @@ img::selection {
 img::-moz-selection {
   color: $white;
   background: transparent;
+}
+
+
+
+// 상위메뉴
+.highlight_b_red{
+  background-color: #b71c1c;
+  color: white;
+  border-radius:4px;
+  font-size: 1.3em;
+  padding:5px;
+}
+
+// 배경 그레이/ 폰트 검정색 (작)
+code{
+  background-color: rgb(248, 248, 248);
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 5px 10px 5px 15px;
+  color: black;
+  font-size: 0.9em;
+}
+
+// 배경 그레이/ 폰트 빨강색 (큰)
+.highlight_s_red{
+  background-color: rgb(248, 248, 248);
+  box-sizing: border-box;
+  border-radius: 3px;
+  padding: 5px 10px 5px 15px;
+  color: #b71c1c;
+  font-size: 0.8em;
+}
+
+// 출처
+.ref_url{
+  font-size: 0.8em;
+}
+
+// 인스타사진 7, 8
+.nf_insta7{
+  width: 345px;
+  height: 330px;
+  float: left;
+}
+
+.nf_insta8{
+  width: 345px;
+  height: 330px;
 }
