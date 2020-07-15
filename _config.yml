@@ -1,4 +1,4 @@
-title:              "하루영감, 스쿠피"
+title:              "스쿠피"
 tagline:            ""
 email:              "doyonikim@gmail.com"
 description:        "영감을 수집하고 공유합니다"
@@ -6,7 +6,7 @@ author:             "김도연"
 baseurl:            "/"
 url:                "https://scoopii.world"
 locale:             "ko_KR"
-thumbnail:          "/img/posts/scoopii_tumbnail.jpeg"
+thumbnail:          "/img/posts/scoopii_tumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
