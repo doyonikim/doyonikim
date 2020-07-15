@@ -1,12 +1,12 @@
-title:              "스쿠피"
+title:              "하루영감, 스쿠피"
 tagline:            ""
 email:              "doyonikim@gmail.com"
-description:        "당신의 마케팅을 진단합니다"
+description:        "영감을 수집하고 공유합니다"
 author:             "김도연"
 baseurl:            "/"
 url:                "https://scoopii.world"
 locale:             "ko_KR"
-thumbnail:          "/img/posts/scoopii_tumbnail.png"
+thumbnail:          "/img/posts/scoopii_tumbnail.jpeg"
 
 # Social Profiles
 twitter_username:   twitter_username
